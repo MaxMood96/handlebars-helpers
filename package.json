@@ -115,7 +115,7 @@
     "is-valid-app": "^0.3.0",
     "js-yaml": "^3.10.0",
     "markdown-link": "^0.1.1",
-    "mocha": "^3.5.2",
+    "mocha": "^11.0.1",
     "template-helpers": "^0.6.7",
     "templates": "^1.2.9",
     "through2": "^2.0.3",
